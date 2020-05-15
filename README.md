@@ -1,10 +1,11 @@
-HTML Personal Website
-=====================
+HTML Personal Website - CV
+==========================
 
 Description:
 ------------
 - Simple static website build using plain HTML only.
 - It includes my bio on the `Home` page and a `Contact Me` page
+- Published on Github Pages: [Pratik's Bio](https://pratik-bongale.github.io/HTML-personal-website/)
 
 Why?
 ---
